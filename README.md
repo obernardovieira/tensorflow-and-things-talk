@@ -1,1 +1,1 @@
-# tensorflow-and-thigs-talk
+# tensorflow-and-things-talk
