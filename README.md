@@ -1,7 +1,5 @@
 # tensorflow-and-things-talk
 
-*Versão em Português mais abaixo!*
-
 Welcome to the repository of my Pixels Camp talk.
 
 First of all I hope you enjoy.
