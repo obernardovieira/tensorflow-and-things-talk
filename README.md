@@ -13,7 +13,7 @@ Don't take it has a full teaching, it's only introductory.
 ### Repository Contents
 
 * In this repository you can find everything I showed on presentation, from example codes to slides.
-* Slides are available in PT and EN versions.
+* Slides are in EN versions.
 
 ### Presentation Contents
 
