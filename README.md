@@ -21,3 +21,11 @@ Don't take it has a full teaching, it's only introductory.
 * An example
 * Break it down and understand it
 * Show me (Something working)
+
+### Useful links
+* https://github.com/aymericdamien/TensorFlow-Examples
+* https://www.tensorflow.org/tutorials/
+* https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+* http://www.asimovinstitute.org/neural-network-zoo/
+* http://projector.tensorflow.org/
+
